@@ -4118,7 +4118,7 @@ body.modalOpen {
   -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
-  position: fixed;
+  position: relative;
   left: 0;
   right: 0;
   top: 0;
