@@ -4148,6 +4148,9 @@ body.modalOpen {
   border-left: none;
   border-right: none;
 }
+.modal-dialog.editor .expandX .CodeMirror {
+  padding: 1.25rem 1.5rem;
+}
 .modal-dialog.editor.wide {
   width: auto;
   left: 0.5rem;
