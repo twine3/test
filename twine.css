@@ -4764,7 +4764,7 @@ ul.CodeMirror-hints {
   position: absolute;
   list-style-type: none;
   padding: 0;
-  z-index: 1000;
+  z-index: 500;
   background: black;
   font: 0.8rem "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
   border: none;
@@ -4778,7 +4778,7 @@ ul.CodeMirror-hints li {
   color: #4d4d4d;
 }
 ul.CodeMirror-hints li.CodeMirror-hint-active {
-  background: rgba(10, 96, 194, 0.2);
+  background: black;
   color: #4d4d4d;
 }
 .theme-dark ul.CodeMirror-hints li.CodeMirror-hint-active {
