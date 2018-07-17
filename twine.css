@@ -4139,9 +4139,9 @@ body.modalOpen {
       -ms-flex-positive: 1;
           flex-grow: 1;
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 100;
+  top: 100;
+  left: -200;
+  right: 300;
 }
 .modal-dialog.editor .expandX .CodeMirror {
   padding: 0.5rem 1.5rem;
