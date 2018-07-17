@@ -4029,7 +4029,7 @@ body.modalOpen {
   top: 1.5rem;
   left: -webkit-calc((100vw - 40em) / 2);
   left: calc((100vw - 40em) / 2);
-  background: black;
+  background: white;
   width: 40em;
   max-height: -webkit-calc(100% -  3rem);
   max-height: calc(100% -  3rem);
