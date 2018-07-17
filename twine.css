@@ -4138,10 +4138,12 @@ body.modalOpen {
   top: 100px;
   left: -400px;
   width: 390px;
+  z-index: 102;
 }
 .modal-dialog.editor .expandX > div,
 .modal-dialog.editor .expandX .CodeMirror {
   position: fixed;
+  z-index: 102;
   top: 100px;
   left: -400px;
   width: 390px;
