@@ -4765,7 +4765,7 @@ ul.CodeMirror-hints {
   list-style-type: none;
   padding: 0;
   z-index: 1000;
-  background: white;
+  background: black;
   font: 0.8rem "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
   border: none;
   -webkit-border-radius: 2px;
