@@ -4134,7 +4134,7 @@ body.modalOpen {
   padding: 0.5rem 1.5rem;
 }
 .modal-dialog.editor .expandX {
-  position: fixed;
+  position: relative;
   top: 100px;
   left: -400px;
   width: 390px;
