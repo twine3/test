@@ -4016,7 +4016,7 @@ body.modalOpen {
 }
 .modal-dialog {
   position: fixed;
-  z-index: 102;
+  z-index: 101;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
