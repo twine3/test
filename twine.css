@@ -4030,7 +4030,7 @@ body.modalOpen {
   left: -webkit-calc((100vw - 40em) / 2);
   left: calc((100vw - 40em) / 2);
   background: white;
-  width: 40em;
+  width: 80em;
   max-height: -webkit-calc(100% -  3rem);
   max-height: calc(100% -  3rem);
   -webkit-border-radius: 2px;
